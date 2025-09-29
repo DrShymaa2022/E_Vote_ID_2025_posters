@@ -10,14 +10,16 @@ The powerpoint Presentations
 https://drive.google.com/drive/folders/1ZfNMDo2iTibevbVlul6N0hOY5wM90but
 
 
+
 Court Verifiability:
 ----------------------
- https://docs.google.com/presentation/d/122nB9E3ehzWAMbk2BpNOguuOr5tLGfpj/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true
- 
-Ballot Stuffing:
+ PPX (https://docs.google.com/presentation/d/122nB9E3ehzWAMbk2BpNOguuOr5tLGfpj/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
+ mp4 (https://drive.google.com/file/d/1N-b4GWmQYM3wuLo5rE_kUfSCPs_JU5LU/view?usp=drive_link)
+ Ballot Stuffing:
 ------------------
-https://docs.google.com/presentation/d/1ocEd29yE-lwO4nG3VYR8HraEub3wfSY_/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true
-
+PPX (https://docs.google.com/presentation/d/1ocEd29yE-lwO4nG3VYR8HraEub3wfSY_/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
+mp4 (https://drive.google.com/file/d/1BIiMVrZ-JVtCbFUwU_ZkNRjex2tePLru/view?usp=drive_link)
 Insiders Risk:
 ---------------
-https://docs.google.com/presentation/d/11_tVAWVBVZhldXVFLXdFKuM9O8GJwMKX/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true
+PPX (https://docs.google.com/presentation/d/11_tVAWVBVZhldXVFLXdFKuM9O8GJwMKX/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
+mp4 (https://drive.google.com/file/d/10VH3hJwIzyfr0Rzc-y-fzHdVRKz5IiBW/view?usp=drive_link)
