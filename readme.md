@@ -17,13 +17,21 @@ Court Verifiability:
 ----------------------
  PPX (https://docs.google.com/presentation/d/122nB9E3ehzWAMbk2BpNOguuOr5tLGfpj/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
  mp4 (https://drive.google.com/file/d/1N-b4GWmQYM3wuLo5rE_kUfSCPs_JU5LU/view?usp=drive_link)
+YouTube: https://youtu.be/7q7c7p8HqKI 
+ResearchGate: https://www.researchgate.net/publication/396207770_Achieving_Court_Verifiability_without_Expert_Knowledge_While_Maintaining_Coercion_Resistance_Cite_as_Shymaa_M_Arafat_Achieving_Court_Verifiability_without_an_Expert_Knowledge_while_Maintaining_Coercio
  
  Ballot Stuffing:
 ------------------
 PPX (https://docs.google.com/presentation/d/1ocEd29yE-lwO4nG3VYR8HraEub3wfSY_/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
 mp4 (https://drive.google.com/file/d/1BIiMVrZ-JVtCbFUwU_ZkNRjex2tePLru/view?usp=drive_link)
+YouTube:https://youtu.be/QRmtfowimOg
+ResearchGate: 
+https://www.researchgate.net/publication/396207887_Automated_Ballot_Stuffing_with_an_Encrypted_Vote_A_Large-Scale_Attack_on_the_Estonian_Internet_Voting_System_IVXV_and_its_Mitigation
 
 Insiders Risk:
 ---------------
 PPX (https://docs.google.com/presentation/d/11_tVAWVBVZhldXVFLXdFKuM9O8GJwMKX/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
 mp4 (https://drive.google.com/file/d/10VH3hJwIzyfr0Rzc-y-fzHdVRKz5IiBW/view?usp=drive_link)
+YouTube: https://youtu.be/joQ12G6KGzc
+ResearchGate:
+https://www.researchgate.net/publication/396207898_Removing_Insiders'_Trust_From_the_Estonian_Internet_Voting_system_IVXV
