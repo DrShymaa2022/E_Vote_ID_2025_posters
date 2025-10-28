@@ -33,7 +33,8 @@ Insiders Risk:
 PPX (https://docs.google.com/presentation/d/11_tVAWVBVZhldXVFLXdFKuM9O8GJwMKX/edit?usp=sharing&ouid=104966709147192671341&rtpof=true&sd=true)
 mp4 (https://drive.google.com/file/d/10VH3hJwIzyfr0Rzc-y-fzHdVRKz5IiBW/view?usp=drive_link)
 YouTube: https://youtu.be/joQ12G6KGzc
-<img width="659" height="777" alt="image" src="https://github.com/user-attachments/assets/bbd605bf-fad4-4dbb-bd28-fb6fb6be4624" />
-
 ResearchGate:
 https://www.researchgate.net/publication/396207898_Removing_Insiders'_Trust_From_the_Estonian_Internet_Voting_system_IVXV
+
+<img width="659" height="777" alt="image" src="https://github.com/user-attachments/assets/bbd605bf-fad4-4dbb-bd28-fb6fb6be4624" />
+
