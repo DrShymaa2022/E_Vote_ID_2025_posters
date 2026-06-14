@@ -1,3 +1,8 @@
+My previous contact with IVXV team
+
+https://github.com/DrShymaa2022/E_Vote_ID_2025_posters/blob/main/Letter_to_IVXV_with_replies.pdf
+
+
 A folder for my 3 posters in EVoteID2025 conference
 *******************************************************
 As stated in the poster, the WIP of the full paper of the 1st poster exists in (https://github.com/DrShymaa2022/articles_papers/blob/main/courtverify_EVoteID_final.pdf)
